@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\1518332\\source\\repos\\moviedb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{010E8439-AF48-40E4-96B7-5F9162CF1EFE}|moviedb.csproj|c:\\users\\1518332\\source\\repos\\moviedb\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010E8439-AF48-40E4-96B7-5F9162CF1EFE}|moviedb.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010E8439-AF48-40E4-96B7-5F9162CF1EFE}|moviedb.csproj|c:\\users\\1518332\\source\\repos\\moviedb\\moviedb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{010E8439-AF48-40E4-96B7-5F9162CF1EFE}|moviedb.csproj|solutionrelative:moviedb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "moviedb.csproj",
+              "DocumentMoniker": "C:\\Users\\1518332\\source\\repos\\moviedb\\moviedb.csproj",
+              "RelativeDocumentMoniker": "moviedb.csproj",
+              "ToolTip": "C:\\Users\\1518332\\source\\repos\\moviedb\\moviedb.csproj",
+              "RelativeToolTip": "moviedb.csproj",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-23T00:42:57.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\1518332\\source\\repos\\moviedb\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\1518332\\source\\repos\\moviedb\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T00:33:37.868Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
